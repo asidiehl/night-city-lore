@@ -1,6 +1,6 @@
 # Factions
 
-The factions of Night City are broken down into two categories: megacorporations and gangs
+The factions of Night City are broken down into three categories: megacorporations, gangs, and nomad families.
 
 ## Megacorporations
 
