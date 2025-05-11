@@ -73,9 +73,9 @@ From technology-obsessed fully cybered gangs, combat obsessive warrior "tribes,"
 - The Voodoo Boys come from the Pacifica and they are netrunners that are devoted to revealing the secrets of the Old Net and what seems to be behind the Blackwall. This gang breaks every single rule that they'll encounter and infiltrate neural networks by programming viruses.
 
 
-### Malestrom
+### Maelstrom
 
-![Malestrom logo](/factions/images/malestrom.png)
+![Maelstrom logo](/factions/images/maelstrom.png)
 > Dying to become more machine than man, consequences be damned, members of the Maelstrom gang implant their bodies to the extreme with powerful and highly illegal cyberware. Smuggling, hit-jobs, and high-stakes heists are the name of their game and they’re ruthlessly good at it. If you don't want their blood-red mechanical eyes to be the last thing you see, better play by their rules, and show some respect.
 
 - Estimated Gang Size: 1,300
