@@ -66,7 +66,7 @@ From technology-obsessed fully cybered gangs, combat obsessive warrior "tribes,"
 ### Voodoo Boys
 
 ![Voodoo Boys logo](/factions/images/voodooboys.png)
-> No-one else in Night City is so closely intertwined with the depths of the Net than the Voodoo Boys. Rooted in Haitian culture and tradition, these elite netrunners use their mastery of the digital realm to hack data and information that would otherwise be untouchable. Operating out of Pacifica, they’re your go-to for access beyond Blackwall, but watch your back; they’re especially wary of strangers.
+> No-one else in Night City is so closely intertwined with the depths of Cyberspace than the Voodoo Boys. Rooted in Haitian culture and tradition, these elite netrunners use their mastery of the digital realm to hack data and information that would otherwise be untouchable. Operating out of Pacifica, they’re your go-to for access beyond Blackwall, but watch your back; they’re especially wary of strangers.
 
 - Estimated Gang Size: Unknown
 - Turf: West Pacifica & Cyberspace
